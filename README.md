@@ -1,0 +1,1 @@
+# Geophysics-informed-invertible-operator-networks-for-solving-Bayesian-geophysical-inverse-problem
